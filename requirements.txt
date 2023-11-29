@@ -5,7 +5,7 @@ opencv_python
 Pillow
 streamlit
 chardet
-cmak
+cmake
 decorator
 dlib
 face-recognition
