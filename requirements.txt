@@ -10,3 +10,4 @@ decorator
 dlib
 face-recognition
 face-recognition-models
+wheel
