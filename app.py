@@ -1,4 +1,4 @@
-# FInal Attractive UI Designs :
+# Final Attractive UI Designs :
 
 import streamlit as st
 import face_recognition
