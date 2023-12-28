@@ -51,7 +51,7 @@ def recognize_faces(frame, known_face_encodings, known_face_names):
 def main():
     
     img = Image.open("Logo.jpg")
-    st.set_page_config(page_title="Food Classification Using CNN",page_icon=img,layout="wide")
+    st.set_page_config(page_title="Face Recognition",page_icon=img,layout="wide")
 
     # Hide Menu_Bar & Footer :
 
