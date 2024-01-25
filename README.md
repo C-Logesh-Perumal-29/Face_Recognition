@@ -42,6 +42,10 @@ FaceMate is a web app that leverages face recognition technology to identify fac
 
 > Once trained, upload test images to recognize faces.
 
+## Functionality Spotlight
+
+  ![Face Recognition](https://github.com/C-Logesh-Perumal-29/Face_Recognition/assets/125385633/3e64a403-7450-4d40-aa58-9b0128f87d68)
+
 ## Credits:
 
   > 👉 **©️ Credits** goes to the **owner** of `all images`. _Thank You_ for all the _**Image Creaters**_ 🤝...
